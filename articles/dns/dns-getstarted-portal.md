@@ -52,6 +52,8 @@ A DNS zone contains the DNS entries for a domain. To start hosting your domain i
    - **Name**: Type *contoso.xyz* for this quickstart example. The DNS zone name can be any value that is not already configured on the Azure DNS servers. A real-world value would be a domain that you bought from a domain name registrar.
    - **Resource group**: Select **Create new**, enter *MyResourceGroup*, and select **OK**. The resource group name must be unique within the Azure subscription. 
 
+1. If you want to upload DNS records from an existing DNS zone, select **Next: DNS Zone Editor**
+
 1. Select **Create**.
 
    ![DNS zone](./media/dns-getstarted-portal/openzone650.png)
